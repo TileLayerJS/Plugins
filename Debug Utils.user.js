@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Tile Layer -- Debug Utils
-// @namespace    https://github.com/TileLayerJS/Plugins/Debug%20Utils.user.js
+// @namespace    https://github.com/TileLayerJS/Plugins/blob/main/Debug%20Utils.user.js
 // @version      1.0-beta
 // @description  Debugging tools for Tile Layer. Enable debugging in settings to use. NOTE: Some buttons clear document without warning.
 // @author       lemocha
