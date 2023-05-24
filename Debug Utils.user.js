@@ -12,8 +12,6 @@
 // @updateURL    https://github.com/TileLayerJS/Plugins/raw/master/Debug%20Utils.user.js
 // @downloadURL  https://github.com/TileLayerJS/Plugins/raw/master/Debug%20Utils.user.js
 // @supportURL	 https://github.com/TileLayerJS/Plugins/issues
-
-// @match        file:///home/chronos/u-102ff90b9ecaf185eb6d9e56aa472b0c7599a31f/MyFiles/Downloads/The%20Archive/HTML/Tile%20Layer/*
 // ==/UserScript==
 
 (() => {
