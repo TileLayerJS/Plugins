@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tile Layer -- Scramble
 // @namespace    https://github.com/TileLayerJS/Plugins/blob/main/Scramble.user.js
-// @version      1.0-beta
+// @version      0.1
 // @description  Randomize grid contents
 // @author       lemocha
 // @match        https://tilelayerjs.github.io/TileLayer/*
